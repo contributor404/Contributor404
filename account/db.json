@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Fahmi XD",
+            "email": "guesjis@gmail.com",
+            "image": "https://i.pinimg.com/736x/c7/04/90/c704906e166ce56a054cfa9c5999c4da.jpg",
+            "username": "fahmixd",
+            "password": "admin123",
+            "sessions": [1]
+        }
+    ],
+    "sessions": [
+        {
+            "id": 1,
+            "token": ""
+        }
+    ],
+    "orders": []
+}
